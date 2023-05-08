@@ -12,13 +12,28 @@ HEADER - BOOTSTRAP
 */
 .container{
     background-color: blueviolet;
-    height: 80px;
 }
 
 .menu{
-
+    height: 80px;
 }
 
+.left_logo{
+    position: relative;
+    border: 1px dashed white;
+}
+
+.left_logo > span{
+    position: absolute;
+    left: 30%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.right_menu{
+    position: relative;
+    border: 1px dashed white;
+}
 
 .extended ul{
     list-style: none;
@@ -27,4 +42,20 @@ HEADER - BOOTSTRAP
 .extended li{
     display: inline-block;
     margin-left: 20px;
+}
+
+.extended{
+    display: none;
+    position: relative;
+}
+
+.hamburger{
+    position: absolute;
+    right: 0%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.hamburger > i{
+    font-size: 25px;
 }
