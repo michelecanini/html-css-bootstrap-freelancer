@@ -14,3 +14,17 @@ HEADER - BOOTSTRAP
     background-color: blueviolet;
     height: 80px;
 }
+
+.menu{
+
+}
+
+
+.extended ul{
+    list-style: none;
+}
+
+.extended li{
+    display: inline-block;
+    margin-left: 20px;
+}
