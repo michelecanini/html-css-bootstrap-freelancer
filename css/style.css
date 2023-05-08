@@ -10,12 +10,9 @@ GENERAL SETTING - MOBILE FIRST
 /*
 HEADER - BOOTSTRAP
 */
-.container{
-    background-color: blueviolet;
-}
-
 .menu{
     height: 80px;
+    background-color: blueviolet;
 }
 
 .left_logo{
@@ -58,4 +55,37 @@ HEADER - BOOTSTRAP
 
 .hamburger > i{
     font-size: 25px;
+}
+
+/*
+MAIN - FIRST SECTION
+*/
+
+.first_sec{
+    background-color: rgb(43, 226, 156);
+    height: 300px;
+    border: 1px dashed white;
+}
+
+/*
+MAIN - SECOND SECTION
+*/
+
+.back-g{
+    background-color:lime;
+    
+}
+
+.second_sec{
+    background-color: rgb(240, 20, 20);
+    border: 1px dashed white;
+}
+
+.col-content{
+    border-radius: 15px;
+    background-color: aqua;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 50px;
+    text-align: center;
 }
