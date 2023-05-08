@@ -1,8 +1,16 @@
 /*
-GENERAL SETTING - DESKTOP FIRST
+GENERAL SETTING - MOBILE FIRST
 */
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+/*
+HEADER - BOOTSTRAP
+*/
+.container{
+    background-color: blueviolet;
+    height: 80px;
 }
