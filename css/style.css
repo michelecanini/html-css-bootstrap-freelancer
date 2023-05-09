@@ -118,3 +118,18 @@ MAIN - FOUR SECTION CONTACT ME
     border: 0;
     border-bottom: 1px solid #ced4da;
 }
+
+.back_g{
+    background-color: lime;
+}
+
+/*
+FOOTER SECTIONS
+*/
+.text_center{
+    text-align: center;
+}
+
+.col_content p > a{
+    text-decoration: none;
+}
