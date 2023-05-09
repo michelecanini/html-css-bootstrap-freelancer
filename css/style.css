@@ -10,26 +10,21 @@ GENERAL SETTING - MOBILE FIRST
 /*
 HEADER - BOOTSTRAP
 */
-.menu{
-    height: 80px;
-    background-color: blueviolet;
+header{
+    background-color: #6c757d;
 }
 
 .left_logo{
     position: relative;
     border: 1px dashed white;
-}
-
-.left_logo > span{
-    position: absolute;
-    left: 30%;
-    top: 50%;
-    transform: translate(-50%, -50%);
+    height: 80px;
+    width: 100%;
 }
 
 .right_menu{
-    position: relative;
     border: 1px dashed white;
+    height: 80px;
+    width: 100%;
 }
 
 .extended ul{
@@ -44,13 +39,6 @@ HEADER - BOOTSTRAP
 .extended{
     display: none;
     position: relative;
-}
-
-.hamburger{
-    position: absolute;
-    right: 0%;
-    top: 50%;
-    transform: translate(-50%, -50%);
 }
 
 .hamburger > i{
@@ -93,3 +81,7 @@ MAIN - SECOND SECTION
     padding: 50px;
     text-align: center;
 }
+
+/*
+MAIN - THREE SECTION
+*/
