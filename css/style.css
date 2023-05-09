@@ -7,6 +7,10 @@ GENERAL SETTING - MOBILE FIRST
     box-sizing: border-box;
 }
 
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
 /*
 HEADER - BOOTSTRAP
 */
@@ -119,17 +123,42 @@ MAIN - FOUR SECTION CONTACT ME
     border-bottom: 1px solid #ced4da;
 }
 
-.back_g{
-    background-color: lime;
+.footer_back_g{
+    background-color: #3a546d;
+    padding-top: 30px;
+}
+
+form{
+    margin-bottom: 40px;
 }
 
 /*
 FOOTER SECTIONS
 */
-.text_center{
+.text_copyright{
     text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .col_content p > a{
     text-decoration: none;
+}
+
+.social{
+    height: 40px;
+    width: 40px;
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.col_content_footer{
+    border-radius: 15px;
+    margin: 5px;
+    text-align: center;
+}
+
+.privacy_back_g{
+    background-color: #2c3e50;
 }
