@@ -23,7 +23,7 @@ MAIN - FIRST SECTION
     height: 400px;
 }
 
-.content-jumbotron{
+.content_jumbotron{
     height: 400px;
     text-align: center;
 }
@@ -34,14 +34,14 @@ MAIN - FIRST SECTION
     margin-bottom: 20px
 }
 
-.line-star{
+.line_star{
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
 }
 
-.line-star-white{
+.line_star_white{
     width: 10%;
     height: 2px;
     background-color: white;
@@ -49,7 +49,7 @@ MAIN - FIRST SECTION
     margin-right: 10px;
 }
 
-.line-star-black{
+.line_star_black{
     width: 10%;
     height: 2px;
     background-color: black;
@@ -114,3 +114,7 @@ MAIN - FOUR SECTION CONTACT ME
     text-align: center;
 }
 
+.border_contact{
+    border: 0;
+    border-bottom: 1px solid #ced4da;
+}
