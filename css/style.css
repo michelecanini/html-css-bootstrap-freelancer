@@ -59,7 +59,7 @@ MAIN - FIRST SECTION
 
 
 /*
-MAIN - SECOND SECTION
+MAIN - SECOND SECTION PORTFOLIO
 */
 
 
@@ -83,8 +83,12 @@ MAIN - SECOND SECTION
     background-color: aqua;
     border: 1px solid black;
     margin: 5px;
-    padding: 50px;
+    padding: 100px;
     text-align: center;
+}
+
+.col-content > img{
+    width: 100%;
 }
 
 /*
