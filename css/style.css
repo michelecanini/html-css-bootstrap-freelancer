@@ -61,8 +61,6 @@ MAIN - FIRST SECTION
 /*
 MAIN - SECOND SECTION PORTFOLIO
 */
-
-
 .title_portfolio{
     background-color: white;
     height: 100px;
@@ -87,7 +85,7 @@ MAIN - SECOND SECTION PORTFOLIO
 MAIN - THREE SECTION ABOUT
 */
 
-.title_about{
+.title_about, .download{
     background-color: rgb(43, 226, 156);
     height: 100px;
     text-align: center;
@@ -103,6 +101,12 @@ MAIN - THREE SECTION ABOUT
     background-color: rgb(43, 226, 156);
 }
 
-.back_g{
-    background-color:lime; 
+/*
+MAIN - FOUR SECTION CONTACT ME
+*/
+.title_contact_me{
+    background-color: white;
+    height: 100px;
+    text-align: center;
 }
+
