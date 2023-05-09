@@ -87,10 +87,12 @@ MAIN - SECOND SECTION PORTFOLIO
     text-align: center;
 }
 
-.col-content > img{
-    width: 100%;
-}
-
 /*
-MAIN - THREE SECTION
+MAIN - THREE SECTION ABOUT
 */
+
+.title_about{
+    background-color: rgb(43, 226, 156);
+    height: 100px;
+    text-align: center;
+}
