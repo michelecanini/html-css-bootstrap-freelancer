@@ -24,7 +24,6 @@ MAIN - FIRST SECTION
 }
 
 .content-jumbotron{
-    background-color: lime;
     height: 400px;
     text-align: center;
 }
@@ -50,16 +49,25 @@ MAIN - FIRST SECTION
     margin-right: 10px;
 }
 
+.line-star-black{
+    width: 10%;
+    height: 2px;
+    background-color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
 
 /*
 MAIN - SECOND SECTION
 */
-.title_sec{
-    background-color: rgb(69, 95, 243);
-    height: 100px;
-    border: 1px dashed white;
-}
 
+
+.title_portfolio{
+    background-color: white;
+    height: 100px;
+    text-align: center;
+}
 
 .back-g{
     background-color:lime; 
