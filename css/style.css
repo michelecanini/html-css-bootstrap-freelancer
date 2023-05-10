@@ -16,19 +16,49 @@ HEADER - BOOTSTRAP
 */
 
 header{
-    background-color: #6c757d;
+    background-color: #2c3e50;
+}
+
+/*
+UTILITY CLASS
+*/
+
+.text_white{
+    color: white;
+}
+
+.font30{
+    font-size: 30px;
+}
+
+.font25{
+    font-size: 25px;
+}
+
+.fontw500{
+    font-weight: 500;
+}
+
+.marginb20{
+    margin-bottom: 20px;
+}
+
+.margint20{
+    margin-top: 20px;
+}
+
+.margint40{
+    margin-top: 40px;
 }
 
 /*
 MAIN - FIRST SECTION
 */
 .first_sec{
-    background-color: rgb(43, 226, 156);
-    height: 400px;
+    background-color: #1abc9c;
 }
 
 .content_jumbotron{
-    height: 400px;
     text-align: center;
 }
 
@@ -67,7 +97,6 @@ MAIN - SECOND SECTION PORTFOLIO
 */
 .title_portfolio{
     background-color: white;
-    height: 100px;
     text-align: center;
 }
 
@@ -94,7 +123,7 @@ MAIN - THREE SECTION ABOUT
 */
 
 .title_about, .download{
-    background-color: rgb(43, 226, 156);
+    background-color: #1abc9c;
     height: 100px;
     text-align: center;
 }
@@ -106,7 +135,7 @@ MAIN - THREE SECTION ABOUT
 }
 
 .three_sec{
-    background-color: rgb(43, 226, 156);
+    background-color: #1abc9c;
 }
 
 /*
