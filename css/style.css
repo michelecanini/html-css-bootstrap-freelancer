@@ -141,6 +141,12 @@ MAIN - THREE SECTION ABOUT
     background-color: #1abc9c;
 }
 
+.button_download{
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+
 /*
 MAIN - FOUR SECTION CONTACT ME
 */
@@ -161,6 +167,11 @@ MAIN - FOUR SECTION CONTACT ME
 
 form{
     margin-bottom: 40px;
+}
+
+.btn_color{
+    background-color: #1abc9c;
+    color: white;
 }
 
 /*
@@ -193,3 +204,4 @@ FOOTER SECTIONS
 .privacy_back_g{
     background-color: #2c3e50;
 }
+
