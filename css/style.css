@@ -9,6 +9,7 @@ GENERAL SETTING - MOBILE FIRST
 
 body{
     font-family: 'Roboto', sans-serif;
+    padding-top: 56px;
 }
 
 /*
@@ -43,23 +44,6 @@ UTILITY CLASS
 .fontw500{
     font-weight: 500;
 }
-
-.marginb20{
-    margin-bottom: 20px;
-}
-
-.margint20{
-    margin-top: 20px;
-}
-
-.margint40{
-    margin-top: 40px;
-}
-
-.marginb40{
-    margin-bottom: 40px;
-}
-
 
 /*
 MAIN - FIRST SECTION
